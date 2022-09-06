@@ -26,8 +26,8 @@ Q1: Is EV popular?
 Q2: What emissions do electric cars emit? 
 
 
-
 Q3: Does the production of electric cars bring on more emissions overall than production of regular cars? 
+![alt text](https://github.com/nhle95/Project1_group4/blob/main/output/NationalvsTexasEmissions.jpeg)
 
 Q4: What impact does a switch to alternative fuel vehicles have on overall emission?
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Emmisions%20From%20All%20Electrical%20Vehichles%20By%20State.jpeg?raw=true)
