@@ -34,7 +34,22 @@ Looking at carbon dioxide by state, some states like West Virginia, Kentucky, an
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Emmisions%20From%20All%20Electrical%20Vehichles%20By%20State.jpeg?raw=true)
 
-Q4: 
+From the data presented thus far, there is a clear correlation between the increase in electric vehicle registration and decrease in overall transportation sector emissions in the United States of America, whether it be plug-in electric vehicles (PHEV), hybrid-electric vehicles (HEV), or all electric-vehicles (EV).
+
+An immediate assessment of all electric vehicle emissions, it appears the electric vehicles help to reduce the overall carbon dioxide (CO2) emissions. This can be seen by comparing each state’s all-electric vehicle (EV) emissions from to the average gasoline fuel vehicle in 2016. As stated previously, average national gasoline vehicle emits 11,435 lbs of CO2 gas annually, whereas the national average all electric vehicle emits 4,815 lbs of CO2 gas annually. However, this significant difference varies from state to state. 
+
+The Emissions from All Electric Vehicles by State figure reflects this variation in emissions for the year 2016. It would be expected that an electric car performs to the same caliber – and therefor emits the same amount of carbon dioxide from state to state. This is true when assessing the tailpipe emissions of automotive vehicles, electric or not. 
+
+Yet, an overall assessment or well to wheel analysis or electric vehicles reveals that a layered commitment to lowering greenhouse emissions in the transportation sector. In summary, Tailpipe emissions only consider the emissions from a vehicle when it is driven.  Well-to-Wheel (WTW) analysis considers the environmental impact of the vehicle on the road and impacts of extracting resources to fuel the vehicle (petroleum oil, coal, natural gas, solar, etc.). Hence, a true analysis of vehicle emissions must consider the source of electricity used to fuel the vehicle as well as the immediate emissions from operating the vehicle. 
+
+The pie charts below a breakdown of electricity sources for the United States, Texas, Arizona, Florida, Washington, Vermont, and Kentucky. 
+
+The secondary pie charts categorize the electricity sources as Renewable or Non-renewable. As more electricity is derived from renewable resources, the emissions for alternative fuel vehicles decreases. When electricity is mainly derived from non-renewable resources, the emissions of alternative fuel vehicles increase in comparison to those in states dependent mainly on renewable resources.  
+
+The correlation between the increase  in electric car registrations and the  and the decrease in emissions can in mainly be accredited to the electric vehicles in states with electricity mainly derived from renewable resources. 
+
+![image](https://user-images.githubusercontent.com/110574523/188993959-fdc197f4-73f6-4344-a863-d4cd71f38885.png)
+
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/US%20Average%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
 
