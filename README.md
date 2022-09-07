@@ -47,8 +47,6 @@ The secondary pie charts categorize the electricity sources as Renewable or Non-
 
 The correlation between the increase  in electric car registrations and the  and the decrease in emissions can in mainly be accredited to the electric vehicles in states with electricity mainly derived from renewable resources.
 
-![image](https://user-images.githubusercontent.com/110574523/188993959-fdc197f4-73f6-4344-a863-d4cd71f38885.png)
-
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/US%20Average%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
 
