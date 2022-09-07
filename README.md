@@ -26,8 +26,10 @@ As expected, the graphs show us that EVs are on the rise over time. From 2016 to
 Q2: What emissions do electric cars emit? 
 
 
-Q3: Does the production of electric cars bring on more emissions overall than production of regular cars? 
+Q3: Has the introduction of electric cars bring on decrease emissions overall? 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/main/output/NationalvsTexasEmissions.jpeg)
+
+With the introduction of electric vehicles, the emissions are beginning to show changes. Viewing the the figures above, the emissions from the transportation sector nationally and at the state level have decreased. However, this does not occur until year 2019. The reason may be the number of EVs up until that point were not enough to stop emissions from increasing. Eventually, emissions have decreased with the introduction of electric cars.
 
 Q4: What impact does a switch to alternative fuel vehicles have on overall emission?
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Emmisions%20From%20All%20Electrical%20Vehichles%20By%20State.jpeg?raw=true)
