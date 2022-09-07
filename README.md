@@ -6,19 +6,12 @@ Research Questions to Answer:
 
 Q1: Is EV popular?
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/EV%20Registrations%20by%20State.jpeg?raw=true)
-
-![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Electric%20Based%20Vehicle%20Trends%20in%20the%20Past%205%20years.jpeg?raw=true)
-
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Electric%20and%20Plug-in%20Hybrid%20Vehicle%20Registrations.jpeg?raw=true)
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Number%20of%20EV%20models,%202016-2021.jpeg?raw=true)
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Number%20of%20Electric%20Cars%20in%20U.S.%20from%202016%20to%202021.jpeg?raw=true)
-
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Percentage%20Change%20in%20Vehicle%20Registrations%20Over%20Year.jpeg?raw=true)
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Registrations%20of%20Electric%20Cars%202016-21.jpeg?raw=true)
 
 As expected, the graphs show us that EVs are on the rise over time. From 2016 to 2021, there has been an great increase in EVs and Plug-in Hyrbrid vehicles registration is the US, from approximately 20,000 vehicles per year in 2016 to almost 112,000 vehicles in 2021. When we compared it with Gasoline car, EVs registrations increased by 15%-50% every year while gasoline vehicle registration only increased by less than 10% yearly. During the same period, automakers flooded the market with new models. There were about 150 models in the US in 2016, but automakers have since released another 100 models in a 5 year span, so customers have more options to choose from. 
 
@@ -26,12 +19,12 @@ As expected, the graphs show us that EVs are on the rise over time. From 2016 to
 
 
 
-Q3: Has the introduction of electric cars brought on a decrease in emissions overall? 
+Q2: Has the introduction of electric cars brought on a decrease in emissions overall? 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/main/output/NationalvsTexasEmissions.jpeg)
 
 With the introduction of electric vehicles, the emissions are beginning to show changes. Viewing the the figures above, the emissions from the transportation sector nationally and at the state level have decreased. However, this does not occur until year 2019. The reason may be the number of EVs up until that point were not enough to stop emissions from increasing. Eventually, emissions have decreased with the introduction of electric cars.
 
-Q4:  What impact does a switch to alternative fuel vehicles have on overall emissions from vehicles nationally?
+Q3:  What impact does a switch to alternative fuel vehicles have on overall emissions from vehicles nationally?
 
 When looking at vehicle emissions two categories that are  observed are air pollutants such as smog, haze and greenhouse gasses like carbon dioxide and methane. Looking at data from the Vehicle Technology Office in the US Department  of Energy  they have focused on the greenhouse gasses and have collected the total amount of carbon dioxide emitted by an electrical vehicle(EV) by state in 2016. As you can see, the highest amount of carbon dioxide emitted was 11,435 lbs.  This is the average amount of carbon dioxide that is emitted  from a car  that uses only gasoline as a fuel source. Compared  to the  national average of 4,815 lbs of carbon dioxide emitted by EVs.  A switch to electrical cars would decrease the amount of carbon dioxide that is emitted overall, but it would not affect every state in the same way.
 
