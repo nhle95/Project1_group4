@@ -33,8 +33,20 @@ When looking at vehicle emissions two categories that are  observed are air poll
 Looking at carbon dioxide by state, some states like West Virginia, Kentucky, and Wyoming stand out for having electric cars emissions that are near the average  for cars that use gasoline.   This is due to these states using coal as the main source of energy to produce  electricity. Then there are states such as Vermont, Washington, and Idaho that use hydropower (the use of the natural flow of water to produce electricity) to produce electricity. The states have the lowest production of carbon dioxide  While states like Texas,New Jersey,Oklahoma  that use natural gas,nuclear power,or wind power  sources to produce electricity, are close to the national average for emissions or below it.  Getting all states to switch to electrical vehicles could help but a real change in greenhouse emission will not take place until states focus on using renewable courses of energy to produce electricity.
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Emmisions%20From%20All%20Electrical%20Vehichles%20By%20State.jpeg?raw=true)
+From the data presented thus far, there is a clear correlation between the increase in electric vehicle registration and decrease in overall transportation sector emissions in the United States of America, whether it be plug-in electric vehicles (PHEV), hybrid-electric vehicles (HEV), or all electric-vehicles (EV).
 
-Q4: 
+An immediate assessment of all electric vehicle emissions, it appears the electric vehicles help to reduce the overall carbon dioxide (CO2) emissions. This can be seen by comparing each state’s all-electric vehicle (EV) emissions from to the average gasoline fuel vehicle in 2016. As stated previously, average national gasoline vehicle emits 11,435 lbs of CO2 gas annually, whereas the national average all electric vehicle emits 4,815 lbs of CO2 gas annually. However, this significant difference varies from state to state.
+
+The Emissions from All Electric Vehicles by State figure reflects this variation in emissions for the year 2016. It would be expected that an electric car performs to the same caliber – and therefor emits the same amount of carbon dioxide from state to state. This is true when assessing the tailpipe emissions of automotive vehicles, electric or not.
+
+Yet, an overall assessment or well to wheel analysis or electric vehicles reveals that a layered commitment to lowering greenhouse emissions in the transportation sector. In summary, Tailpipe emissions only consider the emissions from a vehicle when it is driven.  Well-to-Wheel (WTW) analysis considers the environmental impact of the vehicle on the road and impacts of extracting resources to fuel the vehicle (petroleum oil, coal, natural gas, solar, etc.). Hence, a true analysis of vehicle emissions must consider the source of electricity used to fuel the vehicle as well as the immediate emissions from operating the vehicle.
+
+The pie charts below a breakdown of electricity sources for the United States, Texas, Arizona, Florida, Washington, Vermont, and Kentucky.
+
+The secondary pie charts categorize the electricity sources as Renewable or Non-renewable. As more electricity is derived from renewable resources, the emissions for alternative fuel vehicles decreases. When electricity is mainly derived from non-renewable resources, the emissions of alternative fuel vehicles increase in comparison to those in states dependent mainly on renewable resources.  
+
+The correlation between the increase  in electric car registrations and the  and the decrease in emissions can in mainly be accredited to the electric vehicles in states with electricity mainly derived from renewable resources.
+
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/US%20Average%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
 
@@ -44,10 +56,10 @@ Q4:
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Texas%20Renewable%20vs.%20Non-Renewable.jpeg?raw=true)
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Texas%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
+![alt text](https://github.com/nhle95/Project1_group4/blob/ec89ddc275fd41d431df8399aa0363be3ac34680/output/Texas%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Renewable%20vs.%20Non-Renewable.jpeg?raw=true)
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
+![alt text](https://github.com/nhle95/Project1_group4/blob/ec89ddc275fd41d431df8399aa0363be3ac34680/output/Vermont%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
