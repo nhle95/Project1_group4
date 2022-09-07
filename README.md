@@ -8,12 +8,12 @@ Q1: Is EV popular?
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/ac0bff691c9099853dc544b06ee3996eda48658e/output/Electric%20and%20Plug-in%20Hybrid%20Vehicle%20Registrations.jpeg?raw=true)
 
-![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Number%20of%20EV%20models,%202016-2021.jpeg?raw=true)
+![alt text](https://github.com/nhle95/Project1_group4/blob/b7db520ededcf1100f5db98decabb0836bdf68a4/output/Percentage%20Change%20in%20Vehicle%20Registrations%20Over%20Year.jpeg?raw=true)
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Percentage%20Change%20in%20Vehicle%20Registrations%20Over%20Year.jpeg?raw=true)
 
 
-As expected, the graphs show us that EVs are on the rise over time. From 2016 to 2021, there has been an great increase in EVs and Plug-in Hyrbrid vehicles registration is the US, from approximately 500,000 vehicles per year in 2016 to almost 2.2 millions vehicles in 2021. When we compared it with Gasoline car, EVs registrations increased by 15%-50% every year while gasoline vehicle registration only increased by less than 10% yearly. During the same period, automakers flooded the market with new models. There were about 150 models in the US in 2016, but automakers have since released another 100 models in a 5 year span, so customers have more options to choose from. 
+As expected, the graphs show us that EVs are on the rise over time. From 2016 to 2021, there has been an great increase in EVs and Plug-in Hyrbrid vehicles registration is the US, from approximately 500,000 vehicles per year in 2016 to almost 2.2 millions vehicles in 2021. When we compared it with Gasoline car, EVs registrations increased by 15%-60% every year while gasoline vehicle registration only increased by less than 10% yearly. During the same period, automakers flooded the market with new models. There were about 150 models in the US in 2016, but automakers have since released another 100 models in a 5 year span, so customers have more options to choose from. 
 
 
 
