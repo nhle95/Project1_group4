@@ -33,3 +33,21 @@ When looking at vehicle emissions two categories that are  observed are air poll
 Looking at carbon dioxide by state, some states like West Virginia, Kentucky, and Wyoming stand out for having electric cars emissions that are near the average  for cars that use gasoline.   This is due to these states using coal as the main source of energy to produce  electricity. Then there are states such as Vermont, Washington, and Idaho that use hydropower (the use of the natural flow of water to produce electricity) to produce electricity. The states have the lowest production of carbon dioxide  While states like Texas,New Jersey,Oklahoma  that use natural gas,nuclear power,or wind power  sources to produce electricity, are close to the national average for emissions or below it.  Getting all states to switch to electrical vehicles could help but a real change in greenhouse emission will not take place until states focus on using renewable courses of energy to produce electricity.
 
 ![alt text](https://github.com/nhle95/Project1_group4/blob/781f8e6787839f8cca8e273e3de42a0a3d72daf0/output/Emmisions%20From%20All%20Electrical%20Vehichles%20By%20State.jpeg?raw=true)
+
+Q4: 
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/US%20Average%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/US%20Renewable%20vs.%20Non-Renewable.jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Texas%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Texas%20Renewable%20vs.%20Non-Renewable.jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Texas%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Electricity%20Sources%20(2015-2020).jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Renewable%20vs.%20Non-Renewable.jpeg?raw=true)
+
+![alt text](https://github.com/nhle95/Project1_group4/blob/6f57baf27b6dcdd9446cd29a30ac595ca10a3b28/output/Vermont%20Well%20to%20Wheel%20Emissions.jpeg?raw=true)
