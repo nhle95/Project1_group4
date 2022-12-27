@@ -1,4 +1,4 @@
-# Project1_group4
+# Data Analysis Project - Electric Vehicles 
 
 Project Description/Outline: Are electric cars as green as we think they are? We will dive into what emissions the electric car releases. We will be analyzing the impact of electric vehicles and their surge in our society.
 
